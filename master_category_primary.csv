@@ -1,0 +1,84 @@
+"primary_cat_id","primary_cat_name","primary_cat_desc","created_at","created_by","modified_at","modified_by"
+"1","Accessories","Accessories","2023-06-02 09:05:00.705","Admin",NULL,""
+"2","Benefit/Badge Related","Benefit/Badge Related","2023-06-02 09:05:00.705","Admin",NULL,""
+"3","Company Fitted","Company Fitted","2023-06-02 09:05:00.705","Admin",NULL,""
+"4","Deal","Deal","2023-06-02 09:05:00.705","Admin",NULL,""
+"5","Dealer Related","Dealer Related","2023-06-02 09:05:00.705","Admin",NULL,""
+"6","Delayed Delivery Days","Delayed Delivery Days","2023-06-02 09:05:00.705","Admin",NULL,""
+"7","Delivery Process","Delivery Process","2023-06-02 09:05:00.705","Admin",NULL,""
+"8","Documents Not Received","Documents Not Received","2023-06-02 09:05:00.705","Admin",NULL,""
+"9","Finance","Finance","2023-06-02 09:05:00.705","Admin",NULL,""
+"10","Multiple","Multiple","2023-06-02 09:05:00.705","Admin",NULL,""
+"11","Others","Others","2023-06-02 09:05:00.705","Admin",NULL,""
+"12","Overcharging","Overcharging","2023-06-02 09:05:00.705","Admin",NULL,""
+"13","Paper Work","Paper Work","2023-06-02 09:05:00.705","Admin",NULL,""
+"14","Payment Related","Payment Related","2023-06-02 09:05:00.705","Admin",NULL,""
+"15","PDI ","PDI ","2023-06-02 09:05:00.705","Admin",NULL,""
+"16","Points Related","Points Related","2023-06-02 09:05:00.705","Admin",NULL,""
+"17","Product/Colour Availability","Product/Colour Availability","2023-06-02 09:05:00.705","Admin",NULL,""
+"18","Sales Person","Sales Person","2023-06-02 09:05:00.705","Admin",NULL,""
+"19","Vintage Stock","Vintage Stock","2023-06-02 09:05:00.705","Admin",NULL,""
+"20","MSR Not Able To Use","MSR Not Able To Use ","2023-06-02 09:05:00.705","Admin",NULL,""
+"21","MSR Points","MSR Points ","2023-06-02 09:05:00.705","Admin",NULL,""
+"22","MSR - Issue With Dealer","MSR - Issue With Dealer","2023-06-02 09:05:00.705","Admin",NULL,""
+"23","MSR General Complaint","MSR General Complaint","2023-06-02 09:05:00.705","Admin",NULL,""
+"24","Booking Related","Booking Related","2023-06-02 09:05:00.705","Admin",NULL,""
+"25","Product /Colour Availability","Product /Colour Availability","2023-06-02 09:05:00.705","Admin",NULL,""
+"26","Sales Initiation","Sales Initiation","2023-06-02 09:05:00.705","Admin",NULL,""
+"27","Sales","Sales","2023-06-02 09:05:00.705","Admin",NULL,""
+"28","MSR- Issue With Dealer","MSR- Issue With Dealer","2023-06-02 09:05:00.705","Admin",NULL,""
+"29","Sales Feedback","Sales Feedback","2023-06-02 09:05:00.705","Admin",NULL,""
+"30","Product Feedback","Product Feedback","2023-06-02 09:05:00.705","Admin",NULL,""
+"31","Others Feedback","Others Feedback","2023-06-02 09:05:00.705","Admin",NULL,""
+"32","Workmanship Bodyshop","Workmanship Bodyshop","2023-06-02 09:05:00.705","Admin",NULL,""
+"33","Workmanship - Service/Repairs","Workmanship - Service/Repairs","2023-06-02 09:05:00.705","Admin",NULL,""
+"34","Product Complaints","Product Complaints","2023-06-02 09:05:00.705","Admin",NULL,""
+"35","Service Initiation","Service Initiation","2023-06-02 09:05:00.705","Admin",NULL,""
+"36","Service Delivery","Service Delivery","2023-06-02 09:05:00.705","Admin",NULL,""
+"37","Service Booking Related","Service Booking Related","2023-06-02 09:05:00.705","Admin",NULL,""
+"38","Service Feedback","Service Feedback","2023-06-02 09:05:00.705","Admin",NULL,""
+"39","RC Transfer Delay","RC Transfer Delay","2023-06-02 09:05:00.705","Admin",NULL,""
+"40","Refund Issue","Refund Issue","2023-06-02 09:05:00.705","Admin",NULL,""
+"41","Bank NOC Issue","Bank NOC Issue","2023-06-02 09:05:00.705","Admin",NULL,""
+"42","RTO NOC Issue","RTO NOC Issue","2023-06-02 09:05:00.705","Admin",NULL,""
+"43","Document Issue","Document Issue","2023-06-02 09:05:00.705","Admin",NULL,""
+"44","Over Promise","Over Promise","2023-06-02 09:05:00.705","Admin",NULL,""
+"45","Service Issue","Service Issue","2023-06-02 09:05:00.705","Admin",NULL,""
+"46","Meter Tempering Issue","Meter Tempering Issue","2023-06-02 09:05:00.705","Admin",NULL,""
+"47","Warranty Issue","Warranty Issue","2023-06-02 09:05:00.705","Admin",NULL,""
+"48","Quality Issue","Quality Issue","2023-06-02 09:05:00.705","Admin",NULL,""
+"49","2nd key Issue","2nd key Issue","2023-06-02 09:05:00.705","Admin",NULL,""
+"50","Behavior Issue","Behavior Issue","2023-06-02 09:05:00.705","Admin",NULL,""
+"51","Transaction Issue","Transaction Issue","2023-06-02 09:05:00.705","Admin",NULL,""
+"52","True Value","True Value","2023-06-02 09:05:00.705","Admin",NULL,""
+"53","TV Feedback","TV Feedback","2023-06-02 09:05:00.705","Admin",NULL,""
+"54","Product Complaint","Product Complaint","2023-06-02 09:05:00.705","Admin",NULL,""
+"55","General","General","2023-06-02 09:05:00.705","Admin",NULL,""
+"56","MDS","MDS","2023-08-10 07:33:27.114663","admin",NULL,NULL
+"57","Fame Scheme Related","Fame Scheme Related","2023-08-23 11:30:02.969183","Admin",NULL,NULL
+"58","Smart Play - Studio","Smart Play - Studio","2023-08-23 11:30:02.969183","Admin",NULL,NULL
+"59","Smart Play - Dock","Smart Play - Dock","2023-08-23 11:30:02.969183","Admin",NULL,NULL
+"60","Business Area","Business Area","2023-08-25 08:42:49.451549","Admin",NULL,NULL
+"61","MSIL","MSIL","2023-08-25 08:42:49.451549","Admin",NULL,NULL
+"62","Jobs in Maruti","Jobs in Maruti","2023-08-25 08:42:49.451549","Admin",NULL,NULL
+"63","Enquiry","Enquiry","2023-08-25 08:42:49.451549","Admin",NULL,NULL
+"64","Feedback and Other Queries","Feedback and Other Queries","2023-09-05 07:15:06.144004","Admin",NULL,NULL
+"65","Enquiries Regarding MDS Franchisee","Enquiries Regarding MDS Franchisee","2023-09-05 07:15:06.146911","Admin",NULL,NULL
+"66","Corporate Queries and Enquiries","Corporate Queries and Enquiries","2023-09-05 07:15:06.148757","Admin",NULL,NULL
+"67","Career with MDS","Career with MDS","2023-09-05 07:15:06.149452","Admin",NULL,NULL
+"68","Complaint From Trainees","Complaint From Trainees","2023-09-05 07:15:06.150155","Admin",NULL,NULL
+"69","Suggestions/Appreciation From Trainees","Suggestions/Appreciation From Trainees","2023-09-05 07:15:06.150952","Admin",NULL,NULL
+"70","Purchase Related","Purchase Related","2023-10-05 09:00:37.674497","Admin",NULL,NULL
+"71","Return Related","Return Related","2023-10-05 09:00:37.674497","Admin",NULL,NULL
+"72","Distributor Contact Details","Distributor Contact Details","2023-10-05 09:00:37.674497","Admin",NULL,NULL
+"73","Price Related","Price Related","2023-10-05 09:00:37.674497","Admin",NULL,NULL
+"74","Website Booking","Website Booking","2023-10-05 09:00:37.674497","Admin",NULL,NULL
+"75","Availability","Availability","2023-10-05 09:00:37.674497","Admin",NULL,NULL
+"76","Quality Related","Quality Related","2023-10-05 09:00:37.674497","Admin",NULL,NULL
+"77","Suzuki Connect","Suzuki Connect","2023-12-13 15:58:02.969183","Admin",NULL,NULL
+"78","Course related","Course related","2023-01-08 11:05:00.705","Admin",NULL,""
+"79","Fees Related","Fees Related","2023-01-08 11:05:00.705","Admin",NULL,""
+"80","Manpower Related","Manpower Related","2023-01-08 11:05:00.705","Admin",NULL,""
+"81","Driving school details","Driving school details","2023-01-08 11:05:00.705","Admin",NULL,""
+"82","Subscription Information","Subscription Information","2025-04-01 14:38:04.827666","Admin",NULL,NULL
+"83","Subscription Vehicle & Service Support","Subscription Vehicle & Service Support","2025-04-01 14:38:04.827666","Admin",NULL,NULL
