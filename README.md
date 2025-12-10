@@ -1,18 +1,24 @@
-SELECT 
-    mcm.category_id,
-    mc.category_name,
-    mpc.primary_category_name,
-    msc.secondary_category_name,
-    mtc.tertiary_category_name
-FROM master_category_mapping mcm
-LEFT JOIN master_category mc 
-    ON mcm.category_id = mc.category_id
-LEFT JOIN master_primary_category mpc 
-    ON mcm.primary_category_id = mpc.primary_category_id
-LEFT JOIN master_secondary_category msc 
-    ON mcm.secondary_category_id = msc.secondary_category_id
-LEFT JOIN master_tertiary_category mtc 
-    ON mcm.tertiary_category_id = mtc.tertiary_category_id;
+SELECT
+rw.related_with_name,
+mlob.lob_name,
+mct.case_type_name,
+mbu.channel_name,
+mcm.category_mapping_id,
+mcm.category_id, 
+mc.category_name, 
+mpc.primary_cat_name, 
+msc.secondary_cat_name, 
+mtc.tertiary_cat_name 
+FROM master.master_category_mapping mcm 
+LEFT JOIN master.master_category mc ON mcm.category_id = mc.category_id 
+LEFT JOIN master.master_category_primary mpc ON mcm.primary_cat_id = mpc.primary_cat_id 
+LEFT JOIN master.master_category_secondary msc ON mcm.secondary_cat_id = msc.secondary_cat_id 
+LEFT JOIN master.master_category_tertiary mtc ON mcm.tertiary_cat_id = mtc.tertiary_cat_id
+LEFT JOIN master.master_lob_channel_casetype_mapping mlccm ON mcm.lob_channel_casetype_id = mlccm.id
+LEFT JOIN master.related_with rw ON mcm.related_with_id = rw.id
+LEFT JOIN master.master_case_type mct ON mlccm.case_type_id = mct.case_type_id
+LEFT JOIN master.master_line_of_business mlob ON mlccm.lob_id = mlob.lob_id
+LEFT JOIN master.master_business_unit mbu ON mlccm.channel_id = mbu.channel_id;
 
 
 
