@@ -1,3 +1,22 @@
+SELECT 
+    mcm.category_id,
+    mc.category_name,
+    mpc.primary_category_name,
+    msc.secondary_category_name,
+    mtc.tertiary_category_name
+FROM master_category_mapping mcm
+LEFT JOIN master_category mc 
+    ON mcm.category_id = mc.category_id
+LEFT JOIN master_primary_category mpc 
+    ON mcm.primary_category_id = mpc.primary_category_id
+LEFT JOIN master_secondary_category msc 
+    ON mcm.secondary_category_id = msc.secondary_category_id
+LEFT JOIN master_tertiary_category mtc 
+    ON mcm.tertiary_category_id = mtc.tertiary_category_id;
+
+
+
+
 
 --select * from information_schema.columns where column_name ='lob' and table_Schema='master'
 --"master_category_primary"  "primary_cat_name"
